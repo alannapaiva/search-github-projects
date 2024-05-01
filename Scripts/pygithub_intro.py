@@ -1,6 +1,6 @@
 from github import Github
 
-acess_token = "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"
+acess_token = "your_github_access_token"
 
 g = Github(acess_token)
    
